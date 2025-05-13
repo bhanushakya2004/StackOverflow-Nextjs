@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://bhanushakya:bhanushakya@policefeedback.rsca1.mongodb.net/?retryWrites=true&w=majority&appName=PoliceFeedback
+OPENROUTER_API_KEY=sk-or-v1-a8beceddd848ed816db4841ed0469c
+PORT=5000
+GOOGLE_APPLICATION_CREDENTIALS=./credentials.json
+# mongodb+srv://bhanushakya:bhanushakya@policefeedback.rsca1.mongodb.net/?retryWrites=true&w=majority&appName=PoliceFeedback
